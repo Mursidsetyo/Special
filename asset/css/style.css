@@ -1,5 +1,5 @@
 body{
-    background-color:#4285F4;
+    background-color:#e22f6e;
 }
 
 .preloader {
@@ -9,7 +9,7 @@ body{
     width: 100%;
     height: 100%;
     z-index: 9999;
-    background-color: #fff;
+    background-color: rgb(253, 157, 157);
   }
   .preloader .loading {
     position: absolute;
@@ -18,3 +18,8 @@ body{
     transform: translate(-50%,-50%);
     font: 14px arial;
   }
+
+.container-1{
+box-shadow: #282224 0px 0px 10px 0px;
+border-radius: 10px;
+}
